@@ -1,3 +1,6 @@
 
 otro programa en R
 
+ahora agrego alguna otra caracteristica o capacidad al programa
+
+
